@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: gray;
+}
+
+.container{
+	width: 40%;
+	height: 500px;
+	background-color: aqua;
+	border-radius: 12px;
+	margin: auto;
+	margin-top: 110px;
+}
+
+.div1{
+	width: 100%;
+	height: 100px;
+}
+
+.div1 input{
+	width: 70%;
+	height: 35px;
+	margin-top: 25px;
+	margin-left: 25px;
+	border-radius: 12px;
+}
+
+.div1 p{
+	font-size: 25px;
+	position: relative;
+	top: 22px;
+	left: 25px;
+}
+
+.div2{
+	width: 100%;
+	height: 100px;
+}
+
+.div2 input{
+	width: 70%;
+	height: 35px;
+	margin-top: 25px;
+	margin-left: 25px;
+	border-radius: 12px;
+}
+
+.div2 p{
+	font-size: 25px;
+	position: relative;
+	top: 22px;
+	left: 25px;
+}
+
+.div3{
+	width: 100%;
+	height: 100px;
+}
+
+.div3 input{
+	width: 70%;
+	height: 35px;
+	margin-top: 25px;
+	margin-left: 25px;
+	border-radius: 12px;
+}
+
+.div3 p{
+	font-size: 25px;
+	position: relative;
+	top: 22px;
+	left: 25px;
+}
+
+.div4{
+	width: 100%;
+	height: 100px;
+}
+
+.div4 input{
+	width: 70%;
+	height: 35px;
+	margin-top: 25px;
+	margin-left: 25px;
+	border-radius: 12px;
+}
+
+.div4 p{
+	font-size: 25px;
+	position: relative;
+	top: 22px;
+	left: 25px;
+}
+
+.div5{
+	width: 100%;
+	height: 100px;
+}
+
+.div5 input{
+	width: 13%;
+	height: 25px;
+	margin-top: 6px;
+}
+
+.div5 p{
+	font-size: 25px;
+	position: relative;
+	left: 65px;
+	top: 33px;
+}
